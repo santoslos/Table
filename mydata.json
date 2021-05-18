@@ -1,0 +1,102 @@
+[
+{
+  "model": "single_page.table",
+  "pk": 1,
+  "fields": {
+    "title": "Название1",
+    "date": "2021-05-18",
+    "quantity": 5,
+    "distance": 15
+  }
+},
+{
+  "model": "single_page.table",
+  "pk": 2,
+  "fields": {
+    "title": "Название2",
+    "date": "2021-05-18",
+    "quantity": 20,
+    "distance": 25
+  }
+},
+{
+  "model": "single_page.table",
+  "pk": 3,
+  "fields": {
+    "title": "Название3",
+    "date": "2021-05-18",
+    "quantity": 33,
+    "distance": 10000
+  }
+},
+{
+  "model": "single_page.table",
+  "pk": 4,
+  "fields": {
+    "title": "Название4",
+    "date": "2021-05-18",
+    "quantity": 600,
+    "distance": 10000
+  }
+},
+{
+  "model": "single_page.table",
+  "pk": 5,
+  "fields": {
+    "title": "Название5",
+    "date": "2021-05-18",
+    "quantity": 15,
+    "distance": 100
+  }
+},
+{
+  "model": "single_page.table",
+  "pk": 6,
+  "fields": {
+    "title": "Название6",
+    "date": "2021-05-18",
+    "quantity": 16,
+    "distance": 666
+  }
+},
+{
+  "model": "single_page.table",
+  "pk": 7,
+  "fields": {
+    "title": "Название7",
+    "date": "2021-05-18",
+    "quantity": 35,
+    "distance": 1000
+  }
+},
+{
+  "model": "single_page.table",
+  "pk": 8,
+  "fields": {
+    "title": "Название8",
+    "date": "2021-05-18",
+    "quantity": 4,
+    "distance": 150
+  }
+},
+{
+  "model": "single_page.table",
+  "pk": 9,
+  "fields": {
+    "title": "Название9",
+    "date": "2021-05-18",
+    "quantity": 125,
+    "distance": 1
+  }
+},
+{
+  "model": "single_page.table",
+  "pk": 10,
+  "fields": {
+    "title": "Название10",
+    "date": "2021-05-18",
+    "quantity": 1000,
+    "distance": 15000
+  }
+}
+]

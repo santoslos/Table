@@ -28,7 +28,7 @@ class TableListView(ListView):
             elif filter == '2' and name_field != 'title':
                 fields = {"%s__gt" % (name_field): value}
             else:
-                messages.error(self.request, 'Меньше или больше не принемимо к полю "Заголовок"')
+                messages.error(self.request, 'Меньше или больше не применимо к полю "Заголовок"')
             if order_field:
                 queryset = Table.objects.filter(**fields)
                 queryset = queryset.order_by(f'{order_field}')
